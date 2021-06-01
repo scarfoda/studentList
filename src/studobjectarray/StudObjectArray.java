@@ -16,7 +16,7 @@ public class StudObjectArray {
 
    
     public static void main(String[] args) {
-        Student[] studList=new Student[5];
+        Student[] studList=new Student[3];
         Scanner input=new Scanner(System.in);
         
         for(int i=0;i<studList.length;i++)
